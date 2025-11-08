@@ -5,7 +5,7 @@ import postgrest
 import pytest
 
 import octobot_commons.configuration as commons_configuration
-import octobot_commons.authentication as authentication
+import octobot_commons.authentication as authentication 
 import octobot.community as community
 import octobot.community.supabase_backend as supabase_backend
 import octobot.community.errors as community_errors
