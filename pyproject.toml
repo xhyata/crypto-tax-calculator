@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crypto-tax-calculator"
+version = "1.1.3"
+description = "An advanced cryptocurrency & personal income tax calculator."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "AGPL-3.0" }
+
+authors = [
+  { name = "Noah Cole", email = "sponosdaddya@gmail.com" }
+]
