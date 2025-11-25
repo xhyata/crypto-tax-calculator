@@ -2,7 +2,7 @@ import logging.handlers
 
 from .notifications import NotificationHandler
 
- 
+
 class Logger:
     Logger = None
     NotificationHandler = None 
